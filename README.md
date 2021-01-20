@@ -11,6 +11,9 @@ https://dsc.repo.nii.ac.jp/?action=pages_view_main&active_action=repository_view
 ## Dissatisfaction Data Analysis_2.ipynb
 We model data by a multivariate Hawkes process.
 
+## Dissatisfaction Data Analysis_3.ipynb
+The analysis by using LDA.
+
 ## Cosine_Similarity-Word2Vec.ipynb
 Compute the cosine similarity using Word2Vec.
 
